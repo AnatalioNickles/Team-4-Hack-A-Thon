@@ -12,13 +12,9 @@ Catch Phrase:
 
 
 (Superhero name)
-
 Alter ego: Padmaja
-
 Speciality: Architect
-
 Hidden Power: 
-
 Catch Phrase:
 
 
