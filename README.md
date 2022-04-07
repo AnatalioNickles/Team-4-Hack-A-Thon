@@ -3,11 +3,11 @@ Most amazing DCI/Xpanxion team up workings of our team project.
 
 Meet the Team:
 
-(Superhero name)
-Alter ego: Rehna
-Speciality: Team Leader
-Hidden Power: 
-Catch Phrase:
+(Superhero name)\n
+Alter ego: Rehna\n
+Speciality: Team Leader\n
+Hidden Power: \n
+Catch Phrase:\n
 
 
 (Superhero name)
