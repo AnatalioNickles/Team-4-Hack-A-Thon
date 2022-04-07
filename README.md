@@ -11,6 +11,26 @@ Hidden Power:
 Catch Phrase:               
 
 
+(Superhero name)            
+Alter ego: Rehna            
+Speciality: Team Leader    
+Hidden Power:               
+Catch Phrase:               
+
+
+(Superhero name)            
+Alter ego: Rehna            
+Speciality: Team Leader    
+Hidden Power:               
+Catch Phrase:               
+
+
+(Superhero name)            
+Alter ego: Rehna            
+Speciality: Team Leader    
+Hidden Power:               
+Catch Phrase:               
+
 (Superhero name)
 Alter ego: Padmaja
 Speciality: Architect
@@ -25,13 +45,9 @@ Hidden Power:
 Catch Phrase: 
 
 (Superhero name)
-
 Alter ego: Anatalio
-
 Speciality: Dev Ops
-
 Hidden Power: 
-
 Catch Phrase: I'm the guy in the chair!
 
 The undertaking: Creating an awesome quiz to incorporate our solid CSS, Java Script, HTML, JSON knowledge to test upcoming super programmers before they attain GO status and are allowed to fight villians!
