@@ -1,17 +1,14 @@
 # Team-4-Hack-A-Thon
 Most amazing DCI/Xpanxion team up workings of our team project.
 
+
 Meet the Team:
 
-(Superhero name)
-
-Alter ego: Rehna
-
-Speciality: Team Leader\n
-
-Hidden Power:
-
-Catch Phrase:
+(Superhero name)            (Superhero name)
+Alter ego: Rehna            (Superhero name)
+Speciality: Team Leader     (Superhero name)
+Hidden Power:               (Superhero name)
+Catch Phrase:               (Superhero name)
 
 
 (Superhero name)
