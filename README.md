@@ -18,16 +18,11 @@ Hidden Power:
 Catch Phrase:
 
 
-(Superhero name)
-
-Alter ego: David
-
-Speciality: Quality Assurance
-
-Hidden Power:
-
-Catch Phrase:
-
+(Superhero name) 
+Alter ego: David 
+Speciality: Quality Assurance 
+Hidden Power: 
+Catch Phrase: 
 
 (Superhero name)
 
