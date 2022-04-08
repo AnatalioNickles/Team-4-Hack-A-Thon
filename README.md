@@ -49,16 +49,12 @@
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://imgur.com/a/rSbHnmO)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -75,12 +71,11 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+All you will need to get started is access to the machine where our quiz is stored and the absolute path.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+You must be of seedy moral character, quick witted beyond your years, and show high competancy running a criminal enterprise to proceed. (Organized Crimes charges in your rap sheet are higly favored candidates.
 * npm
   ```sh
   npm install npm@latest -g
