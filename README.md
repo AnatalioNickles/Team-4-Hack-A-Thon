@@ -46,7 +46,6 @@
 ## About The Project
 
  Team evilCorps created a quiz to judge those of worth, elevating them to our ranks and including them in global domination. Team Latency members are the first volunteers to participate.
-[![Product Name Screen Shot][product-screenshot]](https://imgur.com/a/rSbHnmO)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
