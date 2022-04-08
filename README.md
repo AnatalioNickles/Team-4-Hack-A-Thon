@@ -19,7 +19,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -66,7 +65,7 @@
 
 
 
-<!-- GETTING STARTED -->
+
 ## Getting Started
 
 All you will need to get started is access to the machine where our quiz is stored and the absolute path or the classified membership link.
@@ -84,16 +83,16 @@ Zoom is the only installation required on the part of the candidate team.
 
 
 
-<!-- USAGE EXAMPLES -->
+
 ## Usage
 
-Since the quiz will be given through a stream, the usage required from your personal machine is minimal.  
+Since the quiz will be given through a stream, the resource usage required from your personal machine is minimal.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- ROADMAP -->
+
 ## Roadmap
 
 - [X] Team meeting 0
@@ -113,7 +112,7 @@ Since the quiz will be given through a stream, the usage required from your pers
 
 
 
-<!-- CONTRIBUTING -->
+
 ## Contributing
 
 * -$70rm- 
@@ -148,7 +147,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- LICENSE -->
+
 ## License
 
 Members of evilCorps are issued a license for pirating (both oceanic & digital), murder, insurgnecy, & political shenanigans. 
@@ -157,7 +156,7 @@ Probationary members are only allowed the basic murder license.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
+
 ## Contact
 
 -v1b3- @badguyv1b3 - areyouvibin.supervillian@evilCorps.com
@@ -168,7 +167,6 @@ Project Link: https://github.com/AnatalioNickles/Team-4-Hack-A-Thon.git
 
 
 
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * [Underground Overlord] CEO Pooja Purohit
