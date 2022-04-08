@@ -9,7 +9,7 @@
   <p align="center">
     Team <evilCorps> created a quiz
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://www.google.com/search?q=hi+alex!&sxsrf=APq-WBveHwk7TQkUhLdjIJ-ZS-DF2I0wTQ:1649436844712&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiMmNWJ94T3AhXNkmoFHVejA_cQ_AUoAXoECAIQAw&biw=1920&bih=899&dpr=1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
