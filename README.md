@@ -11,10 +11,11 @@ Hidden Power: Impenetable Force Fields
 Catch Phrase:               
 
 
+
 <W0nd3r W0m4n>            
 Alter ego: Padmaja            
 Speciality: Archetict    
-Hidden Power:               
+Hidden Power: Impenetable Force Fields              
 Catch Phrase:               
 
    
