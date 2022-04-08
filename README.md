@@ -123,22 +123,21 @@ Since the quiz will be given through a stream, the usage required from your pers
 * Speciality: Team Leader
 * Hidden Power: Impenetable Force Fields
 * Catch Phrase: 
-
- 
+ -----------------------
 * -w0nd3r w0m4n- 
 * Alter Ego: Padmaja
 * Speciality: Archetict
 * Hidden Power: 
 * Catch Phrase: 
   
-  
+ -----------------------
 * -c0d3 m4g1c m4n- 
 * Alter Ego: David
 * Speciality: Quality Assurance
 * Hidden Power: Invisibility
 * Catch Phrase: "I'm here mang, you just cant see me!"
   
-  
+ -----------------------
 * -v1b3- 
 * Alter Ego: Anatalio
 * Speciality: Dev Ops
