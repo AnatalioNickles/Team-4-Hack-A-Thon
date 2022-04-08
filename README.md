@@ -64,12 +64,9 @@
 
 * [Atom](https://atom.io/)
 * [Moodle](http://siux.vanguard.xpxtraining.com/pluginfile.php/1128/mod_resource/content/1/Project%202%20-%20teams.pdf/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Google](https://www.google.com//)
+* [Github](https://github.com/AnatalioNickles/Team-4-Hack-A-Thon/)
+* [Zoom](https://zoom.us/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
