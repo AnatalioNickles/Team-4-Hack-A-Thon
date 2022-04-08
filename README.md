@@ -101,8 +101,8 @@ Since the quiz will be given through a stream, the usage required from your pers
     - [X] index.hmtl
     - [X] styles.css
     - [X] script.js
-- [X] Merge to 'master'
 - [ ] Quality Assurance
+- [X] Merge to 'master'
 - [ ] Evaulate Teams
     - [ ] Team 1
     - [ ] Team 2
