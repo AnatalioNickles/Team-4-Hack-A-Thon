@@ -75,7 +75,7 @@ All you will need to get started is access to the machine where our quiz is stor
 
 ### Prerequisites
 
-You must be of seedy moral character, quick witted beyond your years, and show high competancy running a criminal enterprise to proceed. (Organized Crimes charges in your rap sheet are higly favored candidates.
+You must be of seedy moral character, quick witted beyond your years, and show high competancy running a criminal enterprise to proceed. (Organized Crimes charges in your rap sheet are considered higly favored candidates)
 * npm
   ```sh
   npm install npm@latest -g
