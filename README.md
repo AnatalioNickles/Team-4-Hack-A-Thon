@@ -1,5 +1,6 @@
 <div id="top"></div>
-![This is an image](https://imgur.com/a/rSbHnmO)
+
+<img src="https://imgur.com/a/rSbHnmO">
 
 <br />
 <div align="center">
