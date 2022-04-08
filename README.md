@@ -62,8 +62,8 @@
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
+* [Atom](https://atom.io/)
+* [Moodle](http://siux.vanguard.xpxtraining.com/pluginfile.php/1128/mod_resource/content/1/Project%202%20-%20teams.pdf/)
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
 * [Svelte](https://svelte.dev/)
