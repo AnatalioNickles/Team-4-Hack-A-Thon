@@ -7,16 +7,15 @@
 <h3 align="center">evilCoprs Quiz of Insanity</h3>
 
   <p align="center">
-    Team <evilCorps> created a quiz
-    <br />
-    <a href="https://www.google.com/search?q=hi+alex!&sxsrf=APq-WBveHwk7TQkUhLdjIJ-ZS-DF2I0wTQ:1649436844712&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiMmNWJ94T3AhXNkmoFHVejA_cQ_AUoAXoECAIQAw&biw=1920&bih=899&dpr=1"><strong>Explore the docs »</strong></a>
+    Team <evilCorps> created a quiz to judge those of worth, elevating them to our ranks and including them in global domination. <Team Latency> are the first volunteers to participate. 
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <br />
+    <a href="https://www.google.com/search?q=hi+alex!&sxsrf=APq-WBveHwk7TQkUhLdjIJ-ZS-DF2I0wTQ:1649436844712&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiMmNWJ94T3AhXNkmoFHVejA_cQ_AUoAXoECAIQAw&biw=1920&bih=899&dpr=1">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://movitees.com/shop2/evil-corp-t-shirt">Sport the Merch</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://nypost.com/2022/03/20/russian-elites-planning-to-overthrow-putin/">We Aren't Alone</a>
   </p>
 </div>
 
