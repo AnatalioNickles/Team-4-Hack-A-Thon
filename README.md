@@ -4,31 +4,31 @@ Most amazing DCI/Xpanxion team up workings of our team project.
 
 Meet the Team:
 
-(Superhero name)            
+<$70rm>            
 Alter ego: Rehna            
 Speciality: Team Leader    
-Hidden Power:               
+Hidden Power: Impenetable Force Fields              
 Catch Phrase:               
 
 
-(Superhero name)            
+<W0nd3r W0m4n>            
 Alter ego: Padmaja            
 Speciality: Archetict    
 Hidden Power:               
 Catch Phrase:               
 
-
-(Superhero name)            
+   
+<C0d3 M4g1c M4n>
 Alter ego: David            
 Speciality: Quality Assurance    
-Hidden Power:               
-Catch Phrase:               
+Hidden Power: Invisiblity              
+Catch Phrase: I'm here mang, you just cant see me!              
 
 
-(Superhero name)            
+<V1b3>            
 Alter ego: Anatalio            
 Speciality: Dev Ops    
-Hidden Power:               
+Hidden Power: Chillin' like a villian.              
 Catch Phrase: I'm the guy in the chair!              
 
 
