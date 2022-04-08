@@ -76,26 +76,11 @@ All you will need to get started is access to the machine where our quiz is stor
 ### Prerequisites
 
 You must be of seedy moral character, quick witted beyond your years, and show high competancy running a criminal enterprise to proceed. (Organized Crimes charges in your rap sheet are considered higly favored candidates)
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+  
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Zoom is the only installation required on the part of the candidate team.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -104,9 +89,7 @@ You must be of seedy moral character, quick witted beyond your years, and show h
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Since the quiz will be given through a stream, the usage required from your personal machine is minimal.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
