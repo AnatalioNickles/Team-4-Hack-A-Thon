@@ -5,12 +5,9 @@
 <br />
 <div align="center">
 
-<h3 align="center">evilCorps Quiz of Insanity</h3>
+<h3 align="center">evilCorp's Quiz of Insanity</h3>
 
   <p align="center">
-    Quiz of Insanity
-    <br />
-    <br />
     <br />
     <a href="https://www.google.com/search?q=hi+alex!&sxsrf=APq-WBveHwk7TQkUhLdjIJ-ZS-DF2I0wTQ:1649436844712&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiMmNWJ94T3AhXNkmoFHVejA_cQ_AUoAXoECAIQAw&biw=1920&bih=899&dpr=1">View Demo</a>
     ·
