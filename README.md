@@ -1,13 +1,9 @@
 <div id="top"></div>
-
-<img width = "200" height = "200" src="https://imgur.com/a/rSbHnmO">
-
-
-
 <br />
 <div align="center">
 
 <h3 align="center">evilCorp's Quiz of Insanity</h3>
+  <img src="https://i.imgur.com/orN7elm.jpeg">
 
   <p align="center">
     <br />
