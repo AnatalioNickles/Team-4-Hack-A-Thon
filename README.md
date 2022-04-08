@@ -8,7 +8,7 @@
 <h3 align="center">evilCorps Quiz of Insanity</h3>
 
   <p align="center">
-    Team <evilCorps> created a quiz to judge those of worth, elevating them to our ranks and including them in global domination. <Team Latency> are the first volunteers to participate. 
+    Team evilCorps created a quiz to judge those of worth, elevating them to our ranks and including them in global domination. Team Latency members are the first volunteers to participate. 
     <br />
     <br />
     <br />
