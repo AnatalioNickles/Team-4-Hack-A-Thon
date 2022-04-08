@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<!-- add project logo if we have time -->
+<img src="./evilcorplogo.jpg">
 
 <br />
 <div align="center">
@@ -138,10 +138,10 @@ Since the quiz will be given through a stream, the resource usage required from 
 * -v1b3- 
 * Alter Ego: Anatalio
 * Speciality: Dev Ops
-* Hidden Power: 
+* Hidden Power: (Classified)
 * Catch Phrase: "Chillin' like a villian."
   
-Any suggestions on how to improve the Insanity Quiz will be record and investiagted. Once identied are confirmed, the puppies in your local area will be kicked, the hand brake lines on all bicycle will be cut within a 5 block radius, and everytime you park in a public space for the next 5 years, you vehicle will be enclosed with a circle of Wal=Mart or Target shopping buggies. #tryme
+Any suggestions on how to improve the Insanity Quiz will be record and investiagted. Once identied are confirmed, the puppies in your local area will be kicked, the hand brake lines on all bicycle will be cut within a 5 block radius, and everytime you park in a public space for the next 5 years, you vehicle will be enclosed with a circle of Wal-Mart or Target shopping buggies. #tryme
   
 Don't forget to give the project a star! Thanks again!
 
@@ -181,18 +181,4 @@ Project Link: https://github.com/AnatalioNickles/Team-4-Hack-A-Thon.git
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
