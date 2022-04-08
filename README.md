@@ -140,7 +140,7 @@ Since the quiz will be given through a stream, the usage required from your pers
 * Alter Ego: Anatalio
 * Speciality: Dev Ops
 * Hidden Power: 
-* Catch Phrase: "I'm the guy in the chair."
+* Catch Phrase: "Chillin' like a villian."
   
 Any suggestions on how to improve the Insanity Quiz will be record and investiagted. Once identied are confirmed, the puppies in your local area will be kicked, the hand brake lines on all bicycle will be cut within a 5 block radius, and everytime you park in a public space for the next 5 years, you vehicle will be enclosed with a circle of Wal=Mart or Target shopping buggies. #tryme
   
@@ -151,7 +151,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Members of evilCorps are issued a license for pirating (both oceanic & digital), murder, insurgnecy, & political shenanigans. Probationary members are only allowed the basic murder license.
+Members of evilCorps are issued a license for pirating (both oceanic & digital), murder, insurgnecy, & political shenanigans. 
+
+Probationary members are only allowed the basic murder license.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -170,10 +172,11 @@ Project Link: https://github.com/AnatalioNickles/Team-4-Hack-A-Thon.git
 ## Acknowledgments
 
 * [Underground Overlord] CEO Pooja Purohit
-* [#1 Lackey] VP Maleeha (last name secret)
-* [Thug 1] Veronica Cisneros
-* [Thug 2] Oprah Winfrey
-* [Rising Enforcer] Will Smith
+* [Lackey 1] VP Maleeha (last name secret)
+* [Lackey 2] Owner
+* [Thug 1] Opera Winfrey
+* [Thug 2] Veronica Cisneros
+* [Enforcer] Will Smith (probationary)
   
 
 <p align="right">(<a href="#top">back to top</a>)</p>
