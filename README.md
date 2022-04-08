@@ -57,9 +57,9 @@
 ### Built With
 
 * [Atom](https://atom.io/)
-* [Moodle](http://siux.vanguard.xpxtraining.com/pluginfile.php/1128/mod_resource/content/1/Project%202%20-%20teams.pdf/)
-* [Google](https://www.google.com//)
-* [Github](https://github.com/AnatalioNickles/Team-4-Hack-A-Thon/)
+* [Moodle](http://siux.vanguard.xpxtraining.com/course/view.php?id=6/)
+* [Google](https://www.google.com/)
+* [Github](https://github.com/)
 * [Zoom](https://zoom.us/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -69,7 +69,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-All you will need to get started is access to the machine where our quiz is stored and the absolute path.
+All you will need to get started is access to the machine where our quiz is stored and the absolute path or the classified membership link.
 
 ### Prerequisites
 
