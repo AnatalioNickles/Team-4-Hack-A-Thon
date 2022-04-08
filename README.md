@@ -1,6 +1,8 @@
 <div id="top"></div>
 
-<img src="https://imgur.com/a/rSbHnmO">
+<img width = "200" height = "200" src="https://imgur.com/a/rSbHnmO">
+
+
 
 <br />
 <div align="center">
