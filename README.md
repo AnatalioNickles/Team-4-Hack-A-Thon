@@ -98,10 +98,13 @@ Since the quiz will be given through a stream, the usage required from your pers
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [X] Team meeting 0
+- [X] Completed assigned tasks
+    - [X] index.hmtl
+    - [X] styles.css
+    - [X] script.js
+- [X] Merge to 'master'
+- [ ] Quality Assurance
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
