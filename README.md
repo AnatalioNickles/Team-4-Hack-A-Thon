@@ -105,8 +105,11 @@ Since the quiz will be given through a stream, the usage required from your pers
     - [X] script.js
 - [X] Merge to 'master'
 - [ ] Quality Assurance
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+- [ ] Evaulate Teams
+    - [ ] Team 1
+    - [ ] Team 2
+    - [ ] Team 3
+    - [ ] Team 5
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -115,7 +118,11 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+-$70rm- 
+  Alter Ego: Rehna
+  Speciality: Team Leader
+  Hidden Power: Impenetable Force Fields
+  Catch Phrase: 
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
