@@ -162,7 +162,7 @@ Members of evilCorps are issued a license for pirating (both oceanic & digital),
 
 -v1b3- @badguyv1b3 - areyouvibin.supervillian@evilCorps.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: https://github.com/AnatalioNickles/Team-4-Hack-A-Thon.git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -171,9 +171,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Underground Overlord] CEO Pooja Purohit
+* [#1 Lackey] VP Maleeha (last name secret)
+* [Thug 1] Veronica Cisneros
+* [Thug 2] Oprah Winfrey
+* [Rising Enforcer] Will Smith
+  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
