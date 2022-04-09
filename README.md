@@ -175,7 +175,3 @@ Project Link: https://github.com/AnatalioNickles/Team-4-Hack-A-Thon.git
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-[product-screenshot]: images/screenshot.png
