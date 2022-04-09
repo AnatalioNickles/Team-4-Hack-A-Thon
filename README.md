@@ -70,7 +70,7 @@ All you will need to get started is access to the machine where our quiz is stor
 ### Prerequisites
 
 You must be of seedy moral character, quick witted beyond your years, and show high competancy running a criminal enterprise to proceed. (Organized Crimes charges in your rap sheet are considered higly favored candidates)
-  
+
 
 ### Installation
 
@@ -112,34 +112,34 @@ Since the quiz will be given through a stream, the resource usage required from 
 
 ## Contributing
 
-* -$70rm- 
+* -$70rm-
 * Alter Ego: Rehna
 * Speciality: Team Leader
 * Hidden Power: Impenetable Force Fields
-* Catch Phrase: 
+* Catch Phrase:
  -----------------------
-* -w0nd3r w0m4n- 
+* -w0nd3r w0m4n-
 * Alter Ego: Padmaja
 * Speciality: Archetict
-* Hidden Power: 
-* Catch Phrase: 
-  
+* Hidden Power:
+* Catch Phrase:
+
  -----------------------
-* -c0d3 m4g1c m4n- 
+* -c0d3 m4g1c m4n-
 * Alter Ego: David
 * Speciality: Quality Assurance
 * Hidden Power: Invisibility
 * Catch Phrase: "I'm here mang, you just cant see me!"
-  
+
  -----------------------
-* -v1b3- 
+* -v1b3-
 * Alter Ego: Anatalio
 * Speciality: Dev Ops
 * Hidden Power: (Classified)
 * Catch Phrase: "Chillin' like a villian."
-  
+
 Any suggestions on how to improve the Insanity Quiz will be record and investiagted. Once identied are confirmed, the puppies in your local area will be kicked, the hand brake lines on all bicycle will be cut within a 5 block radius, and everytime you park in a public space for the next 5 years, you vehicle will be enclosed with a circle of Wal-Mart or Target shopping buggies. #tryme
-  
+
 Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -147,7 +147,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Members of evilCorps are issued a license for pirating (both oceanic & digital), murder, insurgnecy, & political shenanigans. 
+Members of evilCorps are issued a license for pirating (both oceanic & digital), murder, insurgnecy, & political shenanigans.
 
 Probationary members are only allowed the basic murder license.
 
@@ -172,7 +172,7 @@ Project Link: https://github.com/AnatalioNickles/Team-4-Hack-A-Thon.git
 * [Thug 1] Opera Winfrey
 * [Thug 2] Veronica Cisneros
 * [Enforcer] Will Smith (probationary)
-  
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
