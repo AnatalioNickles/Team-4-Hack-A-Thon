@@ -114,7 +114,7 @@ Since the quiz will be given through a stream, the resource usage required from 
 
 * -$70rm-
 * Alter Ego: Rehna
-* Speciality: Team Leader
+* Speciality: Team Leader / Business Analyst
 * Hidden Power: Impenetable Force Fields
 * Catch Phrase: "This is our chance to make a difference!"
  -----------------------
