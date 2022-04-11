@@ -121,8 +121,9 @@ Since the quiz will be given through a stream, the resource usage required from 
 * -w0nd3r w0m4n-
 * Alter Ego: Padmaja
 * Speciality: Archetict
-* Hidden Power:
-* Catch Phrase:
+* Hidden Power: 15,000 wpm
+* Catch Phrase: "Hasta la vista, baby!
+
 
  -----------------------
 * -c0d3 m4g1c m4n-
