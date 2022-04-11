@@ -97,7 +97,7 @@ Since the quiz will be given through a stream, the resource usage required from 
     - [X] index.hmtl
     - [X] styles.css
     - [X] script.js
-- [ ] Quality Assurance
+- [X] Quality Assurance
 - [X] Merge to 'master'
 - [ ] Evaulate Teams
     - [ ] Team 1
