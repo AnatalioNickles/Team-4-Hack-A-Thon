@@ -116,7 +116,7 @@ Since the quiz will be given through a stream, the resource usage required from 
 * Alter Ego: Rehna
 * Speciality: Team Leader
 * Hidden Power: Impenetable Force Fields
-* Catch Phrase:
+* Catch Phrase: "This is our chance to make a difference!"
  -----------------------
 * -w0nd3r w0m4n-
 * Alter Ego: Padmaja
