@@ -45,7 +45,7 @@
 
 ## About The Project
 
- Team evilCorps created a quiz to judge those of worth, elevating them to our ranks and including them in global domination. Team Latency members are the first volunteers to participate.
+ Team evilCorp created a quiz to judge those of worth, elevating them to our ranks and including them in global domination. Team Latency members are the first volunteers to participate.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -139,9 +139,9 @@ Since the quiz will be given through a stream, the resource usage required from 
 * Hidden Power: (Classified)
 * Catch Phrase: "Chillin' like a villian."
 
-Any suggestions on how to improve the Insanity Quiz will be record and investiagted. Once identied are confirmed, the puppies in your local area will be kicked, the hand brake lines on all bicycle will be cut within a 5 block radius, and everytime you park in a public space for the next 5 years, you vehicle will be enclosed with a circle of Wal-Mart or Target shopping buggies. #tryme
+Any suggestions on how to improve the Insanity Quiz will be record and investigated. Once identied are confirmed, the puppies in your local area will be kicked, the hand brake lines on all bicycle will be cut within a 5 block radius, and everytime you park in a public space for the next 5 years, you vehicle will be enclosed with a circle of Wal-Mart or Target shopping buggies. #tryme
 
-Don't forget to give the project a star! Thanks again!
+Don't forget to give the project a star!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
